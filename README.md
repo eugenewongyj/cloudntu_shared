@@ -8,7 +8,7 @@ Eugene edit
 4. `git add <filename>` 
 5. `git reset <filename>`
 6. `git commit -m "<descriptive message>"`
-7. `git log`
+7. `git log` - credentials
 8. `git branch <branch name>`
 9. `git checkout <branch name>`
 10. `git merge <branch name>`
